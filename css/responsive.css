@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px) {
+    section {
+        height: 470px;
+    }
+
+    .controle {
+        display: none;
+    }
+
+    .tabela {
+        width: 100%;
+        height: 90%;
+        overflow-y: auto;
+        overflow-x: auto;
+    }
+}
